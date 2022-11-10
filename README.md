@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-    jinny's jeep game
+    jeep game
   </h1>
 </p>
 <p align="center">
